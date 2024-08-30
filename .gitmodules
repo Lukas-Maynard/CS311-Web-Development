@@ -1,3 +1,6 @@
 [submodule "Week 1/Lukas-Maynard.github.io"]
 	path = Week 1/Lukas-Maynard.github.io
 	url = https://github.com/Lukas-Maynard/Lukas-Maynard.github.io.git
+[submodule "Week 2/Activty1"]
+	path = Week 2/Activty1
+	url = https://github.com/campbell-r-e/Activty1.git
