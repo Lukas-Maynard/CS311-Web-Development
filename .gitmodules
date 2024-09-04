@@ -4,3 +4,6 @@
 [submodule "Week 2/Activty1"]
 	path = Week 2/Activty1
 	url = https://github.com/campbell-r-e/Activty1.git
+[submodule "Week 2/Magic-8-Div.github.io"]
+	path = Week 2/Magic-8-Div.github.io
+	url = https://github.com/Lukas-Maynard/Magic-8-Div.github.io.git
